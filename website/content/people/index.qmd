@@ -1,0 +1,62 @@
+---
+title: "Our team"
+listing:
+  - id: pi-list
+    contents: "*/index.qmd"
+    type: grid
+    image-height: 200px
+    include:
+        role: "pi" # Only shows PIs
+  
+  - id: post-doc-list
+    contents: "*/index.qmd"
+    type: grid
+    image-height: 200px
+    include:
+        role: "pd" # Only shows Post-Docs
+      
+  - id: phd-list
+    contents: "*/index.qmd"
+    type: grid
+    image-height: 200px
+    include:
+      role: "phd" # Only shows PhDs
+
+  - id: master-list
+    contents: "*/index.qmd"
+    type: grid
+    image-height: 200px
+    include:
+      role: "msc" # Only shows Masters
+
+  - id: ra-list
+    contents: "*/index.qmd"
+    type: grid
+    image-height: 200px
+    include: 
+        role: "ra"
+---
+
+## Principal Investigator
+:::{#pi-list}
+:::
+
+## Post-Doctoral Researchers
+:::{#post-doc-list}
+:::
+
+## PhD Students
+:::{#phd-list}
+:::
+
+## Master Students
+:::{#master-list}
+:::
+
+## Research Assistants
+:::{#ra-list}
+:::
+
+## Alumni
+
+Detailed list of our alumni.

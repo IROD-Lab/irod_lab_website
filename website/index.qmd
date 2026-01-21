@@ -1,0 +1,19 @@
+---
+title: "Interactive Robot Design Lab"
+subtitle: "VinUniversity, Hanoi, Vietnam"
+about:
+    template: marquee
+    image: images/robot.jpg
+    image-shape: rounded
+    image-alt: vinuniversity
+listing: 
+    contents: news
+    feed: true 
+---
+
+**Interactive Robot Design (IRod) Group** is led by **Dr. Nguyen Vu Linh** at the College of Engineering and Computer Science, **VinUniversity**.
+
+IRod Group studies Advanced Mechanism Design, focusing on how reconfigurable and compliant systems can enable safer physical interactions. We apply this research to build the next generation of industrial grippers, surgical robots, and energy-harvesting systems. We are dedicated to solving challenges in human-robot coexistence through intelligent mechanical design.
+
+:::{#news}
+:::

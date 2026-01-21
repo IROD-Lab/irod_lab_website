@@ -1,0 +1,8 @@
+title: "Blank Title"
+image: /images/cover.png
+description: "Lorem ipsum"
+date: 2024-06-10
+about:
+  template: marquee
+bibliography: references.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles-distribution/refs/heads/master/ieee.csl

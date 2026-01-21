@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Interactive Robot Design (IRoD)"
+  favicon: images\favicon.png
+  search: true
+  navbar:
+    logo: images\logo.png
+    title: Interactive Robot Design Lab
+    right:
+      - href: index.qmd
+        text: Home
+      - text: "People"
+        href: content/people/index.qmd
+      - text: "Research"
+        href: content/research/index.qmd
+      - text: "News"
+        href: content/news/index.qmd
+      - text: "Blog"
+        href: content/blog/index.qmd
+      - text: "Openings"
+        href: content/openings/index.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
