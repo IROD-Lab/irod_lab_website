@@ -1,1 +1,1 @@
-Sitemap: https://IROD-Lab.github.io/irod_lab_website/sitemap.xml
+Sitemap: https://irodlab.com/sitemap.xml
