@@ -1,6 +1,8 @@
 on:
   push:
     branches: main
+  pull_request:
+    branches: main
 
 name: Quarto Publish
 
@@ -16,7 +18,13 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render and Publish
+      - name: Render Only (for Pull Requests)
+        if: github.event_name == 'pull_request'
+        run: |
+          quarto render
+
+      - name: Render and Publish (for Main Branch)
+        if: github.event_name == 'push'
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
