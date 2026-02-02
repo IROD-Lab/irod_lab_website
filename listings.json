@@ -15,6 +15,10 @@
     ]
   },
   {
+    "listing": "/content/news/index.html",
+    "items": []
+  },
+  {
     "listing": "/content/research/index.html",
     "items": [
       "/content/research/featured/gravity-compensator-2022/index.html",
