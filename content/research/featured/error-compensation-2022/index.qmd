@@ -1,0 +1,9 @@
+---
+title: "Compliance error compensation of a robot end-effector with joint stiffness uncertainties for milling"
+description: "This research aims to present an analytical model to compensate for the compliance errors of a Delta parallel robot as the mini robot, which is mounted at the end effector of an articulated robot to form a macro-mini manipulator for milling operations. This model is derived from a passive compliance design via mechanical springs for the robot considering uncertainties in the joint stiffness. The significance of this design is that it allows determining the compliance parameters of the model by analytical formulas. Quantitative criteria, probabilistic error models, and numerical examples with milling-like trajectories are given to evaluate the effectiveness of the proposed model. Simulation analysis was performed for the Delta robot that identified the sensitivity of its compliance errors over the workspace. The positioning accuracy reliability of the robot was improved with the model, particularly its deflection accuracy along a prescribed trajectory was theoretically increased by 82.6 percent under an estimated process force. The amplification of the compliance errors was diminished when the standard deviation of the joint stiffness was varied."
+image: "Robotic_machining.avif"
+date: 2022-04-15
+categories: [robotics, control, manufacturing]
+---
+
+Featured in [@nguyen2022compliance, @nguyen2022reliability, @nguyen2021gravity].

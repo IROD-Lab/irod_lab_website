@@ -20,6 +20,7 @@ listing:
       fields: [image, title, description, date]
       sort: "date desc"
       page-size: 3
+toc: false
 ---
 
 **Interactive Robot Design (IRod) Group** is led by **Dr. Nguyen Vu Linh** at the College of Engineering and Computer Science, **VinUniversity**.

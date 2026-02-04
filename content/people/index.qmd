@@ -5,6 +5,7 @@ listing:
     contents: "*/index.qmd"
     type: grid
     image-height: 200px
+    fields: [image, title, subtitle]
     include:
         role: "pi" # Only shows PIs
   
@@ -12,6 +13,7 @@ listing:
     contents: "*/index.qmd"
     type: grid
     image-height: 200px
+    fields: [image, title, subtitle]
     include:
         role: "pd" # Only shows Post-Docs
       
@@ -19,6 +21,7 @@ listing:
     contents: "*/index.qmd"
     type: grid
     image-height: 200px
+    fields: [image, title, subtitle]
     include:
       role: "phd" # Only shows PhDs
 
@@ -26,6 +29,7 @@ listing:
     contents: "*/index.qmd"
     type: grid
     image-height: 200px
+    fields: [image, title, subtitle]
     include:
       role: "msc" # Only shows Masters
 
@@ -33,6 +37,7 @@ listing:
     contents: "*/index.qmd"
     type: grid
     image-height: 200px
+    fields: [image, title, subtitle]
     include: 
         role: "ra"
 

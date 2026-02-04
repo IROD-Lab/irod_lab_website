@@ -1,0 +1,7 @@
+---
+title: "A spherical decoupled robotic manipulator for neuroendoscopy"
+image: "spherical.avif"
+description: "This project aims to develop a robotic manipulator for neuroendoscopy. The manipulator is constructed based on a novel five-bar spherical decoupled mechanism that can provide a remote center of motion of two decoupled degrees of freedom. In this work, the design concept, kinematics, and statics of the proposed mechanism are first studied and then used for demonstrating its superior performance compared with conventional five-bar spherical mechanisms. A multi-objective optimization was taken to find an optimal dimension for the spherical decoupled robotic manipulator with high performance. The optimization is modeled from a Genetic algorithm and Pareto Frontier considering the real operational workspace in neuroendoscopy. Finally, a prototype of the manipulator was manufactured and tested by a surgeon during neuroendoscopy."
+date: 2017-12-20
+categories: [robotics, medical robotics, mechanism design]
+---

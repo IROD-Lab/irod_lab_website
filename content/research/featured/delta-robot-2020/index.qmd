@@ -1,0 +1,7 @@
+---
+title: "Gravity compensation design of delta parallel robots"
+image: delta_robot_trans.avif
+description: "This research applied the gear-spring module (GSM) for gravity compensation of the renowned Delta parallel robots. Design examples are implemented through a theoretical model and a real industrial Delta robot, the FANUC M-3iA/12H. A comparative study between the uses of the gear-spring modules, torsion springs, and tension springs for gravity compensation is provided. As a result, the proposed GSM design suggests a compact mechanical solution for gravity compensation of the Delta robots without a compromise of the compensation performance and robot workspace."
+date: 2020-12-20
+categories: [robotics, mechanism design, control]
+---

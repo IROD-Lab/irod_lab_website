@@ -12,6 +12,7 @@ website:
   search: true
   back-to-top-navigation: true
   reader-mode: true
+  site-url: "https://irodlab.com"
   page-footer: 
     border: true
     # Left side: Location

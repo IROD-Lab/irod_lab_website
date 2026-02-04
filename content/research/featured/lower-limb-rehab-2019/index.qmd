@@ -1,0 +1,7 @@
+---
+title: "A gravity-balanced reconfigurable mechanism for lower-limb rehabilitation"
+image: "rehab.avif"
+description: "This research introduced a gravity-balanced reconfigurable mechanism for lower-limb rehabilitation. The unique feature of this design is that it uses a single counterweight to realize a perfect gravity balancing in two working configurations that are relevant to the hip and knee motions during rehabilitation training. The use of counterweight could eliminate the gravitational effect on the patient's legs, thereby reducing their efforts for movements, and improving the training efficiency."
+date: 2019-12-20
+categories: [robotics, mechanism design, rehabilitation]
+---
