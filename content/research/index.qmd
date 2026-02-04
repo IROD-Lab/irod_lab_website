@@ -1,21 +1,20 @@
 ---
 title: "Research & Publications"
 listing:
-  # LISTING 1: The Visual Gallery (Points to the .qmd files)
   - id: gallery
     contents: "featured/*/*.qmd"
     type: default
-    fields: [image, title, description, date]
+    fields: [image, title, description, date, categories]
     sort: "date desc"
+    categories: true
     filter-ui: true
+    sort-ui: true
     page-size: 6   # Pagination (so many cards don't clutter the page)
     max-description-length: 175
 title-block-banner: true
 ---
 
 Here is an overview of our lab's research output.
-
-::: {.column-page-inset-right}
 
 ::: {.panel-tabset}
 
@@ -27,8 +26,6 @@ Here are our major research highlights. Click a card to read the full breakdown 
 
 ## Publications
 
-{{< include ../../components/auto_pubs.qmd >}}
-
-:::
+{{< include /components/auto_pubs.qmd >}}
 
 :::

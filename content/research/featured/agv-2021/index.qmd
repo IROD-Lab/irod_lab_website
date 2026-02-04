@@ -1,0 +1,8 @@
+---
+title: "Development of an Intelligent Automatic Guided Vehicle (AGV)"
+image: "agv.avif"
+description: "This research aims to develop a robotic manipulator with performance augmentation for an intelligent automatic guided vehicle (AGV). The robot augmentation is realized through the principle of gravity compensation for reducing the actuation torques and energy consumption. The robot’s dexterity and flexibility are improved by adding a parallel platform under its base, thereby creating a hybrid serial-parallel robotic manipulator. The proposed hybrid robotic manipulator is mounted on the AGV, which is used for coordination and navigation in industrial environments. The AGV could suggest several services, such as multi-sensor data fusion, mission assignment, time synchronization, visual data representation, global navigation, and local path planning. Besides, an intelligent gripper equipped with sensors and instruments is also implemented to the proposed hybrid manipulator to provide high-level system decision-making in the grip and release of objects. This gripper could offer gripping-force accuracy and sampling rate at a minimal cost through data acquisition and processing, layout design, and embedded electronic circuit design."
+date: 2021-12-20
+categories: [robotics, manufacturing, control]
+---
+
