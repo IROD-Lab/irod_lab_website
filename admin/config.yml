@@ -38,7 +38,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "members"
-    label: "Lab Members"
+    label: "Members"
     folder: "content/people/members"
     create: true
     slug: "{{slug}}"
@@ -71,3 +71,85 @@ collections:
       - label: "Bio" 
         name: "body"
         widget: "markdown"
+
+  - name: "research"
+    label: "Research Projects"
+    folder: "content/research/featured"
+    create: true
+    slug: "{{slug}}"
+    path: "{{slug}}/index"
+    extension: "qmd"
+    format: "yaml-frontmatter"
+    
+    media_folder: ""
+    public_folder: ""
+
+    fields:
+      - label: "Project Title"
+        name: "title"
+        widget: "string"
+      
+      - label: "Featured Image"
+        name: "image"
+        widget: "image"
+        required: false
+      
+      - label: "Short Description"
+        name: "description"
+        widget: "text"
+        hint: "Brief summary shown in listings"
+      
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+      
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        hint: "e.g., robotics, mechanism design, control"
+        allow_add: true
+        default: ["robotics"]
+      
+      - label: "Project Details"
+        name: "body"
+        widget: "markdown"
+
+  - name: "pages"
+    label: "Site Pages"
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "index.qmd"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      
+      - label: "Research Page"
+        name: "research"
+        file: "content/research/index.qmd"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      
+      - label: "People/Team Page"
+        name: "people"
+        file: "content/people/index.qmd"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      
+      - label: "News Page"
+        name: "news-page"
+        file: "content/news/index.qmd"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      
+      - label: "Openings Page"
+        name: "openings-page"
+        file: "content/openings/index.qmd"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
