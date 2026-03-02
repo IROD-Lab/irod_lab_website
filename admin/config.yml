@@ -1,9 +1,7 @@
 backend:
-  name: github
-  repo: IROD-Lab/irod_lab_website
-  branch: main
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
+  name: git-gateway
+
+local_backend: true
 
 publish_mode: editorial_workflow
 
@@ -116,6 +114,7 @@ collections:
 
   - name: "pages"
     label: "Site Pages"
+    format: "yaml-frontmatter"
     files:
       - label: "Home Page"
         name: "home"
