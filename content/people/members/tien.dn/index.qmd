@@ -1,6 +1,7 @@
 ---
 title: "Nguyen Duc Tien"
 role: "pd" 
+image: "tiennd.jpg"
 ---
 
 Nguyễn Đức Tiến
