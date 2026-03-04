@@ -58,7 +58,7 @@ collections:
       - label: "Role"
         name: "role"
         widget: "select"
-        options: ["msc", "phd", "pi", "ra", "alumni"]
+        options: ["msc", "phd", "pi", "ra", "alumni", "pd"]
       
       # 2. THE IMAGE FIELD
       # 'required: false' is crucial. If they don't upload a photo, 
