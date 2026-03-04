@@ -1,6 +1,7 @@
 ---
-title: "Luu Duc Toan"
-role: "phd" 
+title: Luu Duc Toan
+role: phd
+image: toanld2.jpg
 ---
 
 Lưu Đức Toàn
