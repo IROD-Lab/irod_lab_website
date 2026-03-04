@@ -1,6 +1,7 @@
 ---
-title: "Nguyen Van Thanh Tri"
-role: "ra" 
+title: Nguyen Van Thanh Tri
+role: ra
+image: tri.nvt.jpg
 ---
 
 Nguyễn Văn Thành Trí
