@@ -1,6 +1,7 @@
 ---
-title: "Le Minh An"
-role: "msc" 
+title: Le Minh An
+role: msc
+image: anlm.jpg
 ---
 
 Lê Minh An
