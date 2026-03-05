@@ -12,23 +12,42 @@ title-block-banner: true
 toc: false
 ---
 
+## Learning and Research Opportunities at VinUniversity in Robotics and AI
 
-**We are always looking for highly motivated students and researchers interested in:**
+We are currently seeking candidates for **Research Assistant (RA)**, **Master's**, **PhD**, and **Postdoctoral** positions to join our research groups in the following areas:
 
-- Mechanism design and analysis
-- Robot and actuator design
-- Multibody Dynamic Systems
-- Novel mechanisms and applications
-- Physical human-robot interaction
-- Medical device innovation
-- Mechatronics and Control theory
+- Rehabilitation and assistive robotics
+- Intelligent control and AI integration
+- Human-robot interaction (HRI)
+- Soft and compliant mechanisms
+- Medical and service robotics
+- Dynamics and system design
 
-You may contact Dr. Vu Linh Nguyen (linh.nv2@vinuni.edu.vn) for further information.
-International students need to email me to receive support for your program's application, scholarships, arrival in Vietnam, etc.
+We welcome candidates with backgrounds in mechanical engineering, electrical engineering, computer science, or related fields. Successful candidates will have the opportunity to work on research projects, collaborate with leading international partners (UIUC, Cornell, UPenn, Nanyang, etc.), publish papers in prestigious journals, and access state-of-the-art facilities at VinUniversity.
 
-Join us in inventing the next-generation design for robots.
+### Benefits
 
-Thank you!
+- **Research Assistant (RA):** Up to $10,000 USD per year
+- **Master's:** Tuition waiver + stipend (~$10,000 USD per year)
+- **PhD:** Tuition waiver + stipend (~$15,000 USD per year)
+- **Postdoctoral Researcher (Postdoc):** Up to $40,000 USD per year
+
+### Application Details
+
+**Location:** VinUniversity, Hanoi, Vietnam  
+**Start Date:** Flexible (rolling admissions, early applications encouraged)
+
+### How to Apply
+
+Please send your CV and cover letter to Dr. Nguyen Vu Linh (linh.nv2@vinuni.edu.vn). Only qualified candidates will be contacted.
+
+### Contact Person
+
+**Dr. Nguyen Vu Linh**  
+Associate Director, Mechanical Engineering Program  
+VinUniversity  
+Address: Vinhomes Ocean Park, Gia Lam, Hanoi, Vietnam  
+Email: linh.nv2@vinuni.edu.vn
 
 ---
 

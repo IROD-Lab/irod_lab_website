@@ -41,12 +41,12 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - text: "People"
-        href: content/people/index.qmd
-      - text: "Research"
-        href: content/research/index.qmd
       - text: "News"
         href: content/news/index.qmd
+      - text: "Research"
+        href: content/research/index.qmd
+      - text: "People"
+        href: content/people/index.qmd
       - text: "Openings"
         href: content/openings/index.qmd
     tools:
