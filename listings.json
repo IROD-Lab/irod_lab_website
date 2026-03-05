@@ -4,17 +4,16 @@
     "items": []
   },
   {
-    "listing": "/index.html",
+    "listing": "/content/people/index.html",
     "items": [
-      "/content/research/featured/gravity-compensator-2022/index.html",
-      "/content/research/featured/constant-force-2023/index.html",
-      "/content/research/featured/mobile-manipulator-2024/index.html",
-      "/content/research/featured/error-compensation-2022/index.html",
-      "/content/research/featured/agv-2021/index.html",
-      "/content/research/featured/delta-robot-2020/index.html",
-      "/content/research/featured/lower-limb-rehab-2019/index.html",
-      "/content/research/featured/serial-manipulator-2019/index.html",
-      "/content/research/featured/spherical-manipulator-2017/index.html"
+      "/content/people/members/linh.nv/index.html",
+      "/content/people/members/tien.dn/index.html",
+      "/content/people/members/toan.ld/index.html",
+      "/content/people/members/an.lm/index.html",
+      "/content/people/members/chinh.td/index.html",
+      "/content/people/members/nam.nv/index.html",
+      "/content/people/members/tri.nvt/index.html",
+      "/content/people/members/pham-khac-toan/index.html"
     ]
   },
   {
@@ -32,15 +31,17 @@
     ]
   },
   {
-    "listing": "/content/people/index.html",
+    "listing": "/index.html",
     "items": [
-      "/content/people/members/linh.nv/index.html",
-      "/content/people/members/tien.dn/index.html",
-      "/content/people/members/toan.ld/index.html",
-      "/content/people/members/an.lm/index.html",
-      "/content/people/members/chinh.td/index.html",
-      "/content/people/members/nam.nv/index.html",
-      "/content/people/members/tri.nvt/index.html"
+      "/content/research/featured/gravity-compensator-2022/index.html",
+      "/content/research/featured/constant-force-2023/index.html",
+      "/content/research/featured/mobile-manipulator-2024/index.html",
+      "/content/research/featured/error-compensation-2022/index.html",
+      "/content/research/featured/agv-2021/index.html",
+      "/content/research/featured/delta-robot-2020/index.html",
+      "/content/research/featured/lower-limb-rehab-2019/index.html",
+      "/content/research/featured/serial-manipulator-2019/index.html",
+      "/content/research/featured/spherical-manipulator-2017/index.html"
     ]
   },
   {
