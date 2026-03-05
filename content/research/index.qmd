@@ -14,18 +14,7 @@ listing:
 title-block-banner: true
 ---
 
-Here is an overview of our lab's research output.
-
-::: {.panel-tabset}
-
-## Highlights 
-Here are our major research highlights. Click a card to read the full breakdown and see the interactive charts.
+Here you can find an overview of our research projects and publications.
 
 :::{#gallery}
-:::
-
-## Publications
-
-{{< include /components/auto_pubs.qmd >}}
-
 :::

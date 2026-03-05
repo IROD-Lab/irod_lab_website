@@ -1,3 +1,6 @@
+"""
+Deprecated script to list publications from a .bib file.
+"""
 import os
 import glob
 from pybtex.database import parse_string
