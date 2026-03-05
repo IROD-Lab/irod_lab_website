@@ -1,6 +1,7 @@
 ---
-title: "Tran Duong Chinh"
-role: "msc" 
+title: Tran Duong Chinh
+role: msc
+image: chinhtd.jpg
 ---
 
 Trần Dương Chính
