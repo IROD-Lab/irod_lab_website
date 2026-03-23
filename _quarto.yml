@@ -8,7 +8,7 @@ project:
 
 website:
   title: "Interactive Robot Design (IRoD)"
-  favicon: images\favicon.png
+  favicon: favicon.ico
   search: true
   back-to-top-navigation: true
   reader-mode: true
