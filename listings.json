@@ -1,7 +1,10 @@
 [
   {
-    "listing": "/content/news/index.html",
-    "items": []
+    "listing": "/content/openings/index.html",
+    "items": [
+      "/content/openings/positions/vishc_phd_2025/index.html",
+      "/content/openings/positions/vishc_postdocs_2025/index.html"
+    ]
   },
   {
     "listing": "/index.html",
@@ -16,6 +19,10 @@
       "/content/research/featured/serial-manipulator-2019/index.html",
       "/content/research/featured/spherical-manipulator-2017/index.html"
     ]
+  },
+  {
+    "listing": "/content/news/index.html",
+    "items": []
   },
   {
     "listing": "/content/research/index.html",
@@ -38,18 +45,10 @@
       "/content/people/members/tien.dn/index.html",
       "/content/people/members/toan.ld/index.html",
       "/content/people/members/an.lm/index.html",
-      "/content/people/members/chinh.td/index.html",
       "/content/people/members/phong.nh/index.html",
       "/content/people/members/nam.nv/index.html",
       "/content/people/members/tri.nvt/index.html",
       "/content/people/members/pham-khac-toan/index.html"
-    ]
-  },
-  {
-    "listing": "/content/openings/index.html",
-    "items": [
-      "/content/openings/positions/vishc_phd_2025/index.html",
-      "/content/openings/positions/vishc_postdocs_2025/index.html"
     ]
   }
 ]
